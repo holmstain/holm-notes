@@ -1,4 +1,4 @@
-- Turkish
+### Turkish
     
 # **Holm Notes**
     
@@ -36,7 +36,7 @@ Kullanıcı uygulamayı dilediği gibi kullanabilir, notlarına isim veya tarihl
 - Renkli notlar
 
 
-- English
+### English
 
 
 # **Holm Notes**
