@@ -1,35 +1,35 @@
 - Turkish
     
-    # Holm Notes
+    # **Holm Notes**
     
     Bu uygulama kullanıcıların notlarını yazmalarına ve saklamalarına olanak tanır. Kullanıcılar notlarını oluşturulma zamanına göre düzenleyebilir ve arama yapabilirler.
     
-    ## Kullanım
+    ## **Kullanım**
     
     1. Uygulamayı açın.
     2. Yeni bir not oluşturmak için "New Note" butonuna tıklayın.
     3. Notları aramak için "Search" sekmesine gidin.
     
-    ## Özellikler
+    ## **Özellikler**
     
     - Notunuza zaman damgası ile ulaşın
     - Notlarınızı başlıklarına göre arayın filtreleyin
     - Notlarınızı düzenleme ve silme
     
-    ## Geliştirici Notu
+    ## **Geliştirici Notu**
     
     Holm Notes, CSS, Javascript, React, node ve MongoDB dilleri ve kütüphanelerini kullanır. Özellikle kendimi React tarafında geliştirmek istediğim için bu projede React tarafında Hook kullanımını özümsedim. JavaScript tarafında arrayların kullanımını ve çalışma mantıklarını kavradım. MongoDB ile de note uygulamasını alpha sürüme benzetmek ve MongoDB’deki bilgilerimi tekrar hatırlamak için database kurulumunu gerçekleştirdim. 
     
     Kullanıcı uygulamayı dilediği gibi kullanabilir, notlarına isim veya tarihlerine göre filtre ve sıralama yapabilirler.
     
-    ## Gelecek Özellikler
+    ## **Gelecek Özellikler**
     
-    ### Yazılımsal
+    ### **Yazılımsal**
     
     - Google Calender / Apple Calender senkronizasyonu
     - Mevcut ve belirli konum ekleme
     
-    ### Kozmetik
+    ### **Kozmetik**
     
     - Renkli notlar
 
