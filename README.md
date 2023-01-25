@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+- Turkish
+    
+    # Holm Notes
+    
+    Bu uygulama kullanıcıların notlarını yazmalarına ve saklamalarına olanak tanır. Kullanıcılar notlarını oluşturulma zamanına göre düzenleyebilir ve arama yapabilirler.
+    
+    ## Kullanım
+    
+    1. Uygulamayı açın.
+    2. Yeni bir not oluşturmak için "New Note" butonuna tıklayın.
+    3. Notları aramak için "Search" sekmesine gidin.
+    
+    ## Özellikler
+    
+    - Notunuza zaman damgası ile ulaşın
+    - Notlarınızı başlıklarına göre arayın filtreleyin
+    - Notlarınızı düzenleme ve silme
+    
+    ## Geliştirici Notu
+    
+    Holm Notes, CSS, Javascript, React, node ve MongoDB dilleri ve kütüphanelerini kullanır. Özellikle kendimi React tarafında geliştirmek istediğim için bu projede React tarafında Hook kullanımını özümsedim. JavaScript tarafında arrayların kullanımını ve çalışma mantıklarını kavradım. MongoDB ile de note uygulamasını alpha sürüme benzetmek ve MongoDB’deki bilgilerimi tekrar hatırlamak için database kurulumunu gerçekleştirdim. 
+    
+    Kullanıcı uygulamayı dilediği gibi kullanabilir, notlarına isim veya tarihlerine göre filtre ve sıralama yapabilirler.
+    
+    ## Gelecek Özellikler
+    
+    ### Yazılımsal
+    
+    - Google Calender / Apple Calender senkronizasyonu
+    - Mevcut ve belirli konum ekleme
+    
+    ### Kozmetik
+    
+    - Renkli notlar
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+- English
 
-In the project directory, you can run:
 
-### `npm start`
+# **Holm Notes**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This application allows users to write and store notes. Users can organize their notes by time of creation and can also perform a search.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## **Usage**
 
-### `npm test`
+1. Open the application.
+2. Click on the "New Note" button to create a new note.
+3. Go to the "Search" tab to search for notes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## **Features**
 
-### `npm run build`
+- Access your notes with a timestamp
+- Search and filter your notes by title
+- Edit and delete your notes
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## **Developer's Note**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Holm Notes uses the languages and libraries of CSS, Javascript, React, node and MongoDB. I particularly wanted to develop myself on the React side, so in this project I adopted the use of Hook on the React side. On the JavaScript side, I understood the use and working logic of arrays. I also performed the database setup with MongoDB to recall the information in MongoDB and simulate the alpha version of the note application.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Users can use the application as they wish, they can filter and sort their notes by name or dates.
 
-### `npm run eject`
+## **Future Features**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### **Technical**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Google Calender / Apple Calender synchronization
+- Adding current and specific location
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### **Cosmetic**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Colorful notes
