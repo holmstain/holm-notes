@@ -27,7 +27,7 @@ const CreateNote = ({setNotes}) => {
     <section>
       <header className="create-note__header">
         <Link to="/" className='btn'><AiOutlineArrowLeft/></Link>
-        <button className='btn lg primary' onClick={handleSubmit}>Save</button>
+        <button className='btn lg primary' onClick={handleSubmit}>Not Oluştur</button>
       </header>
       <form className='create-note__form' onSubmit={handleSubmit}>
         <input type="text" placeholder='Title' value={title} onChange={(e) => setTitle(e.target.value)} autoFocus />
