@@ -4,29 +4,29 @@ const useCreateDate = () => {
     const month = dateObj.getMonth();
     let monthName;
     switch(month) {
-            case 0: monthName ="Ocak";
+            case 0: monthName ="Jan";
             break;
-            case 1: monthName = "Şubat";
+            case 1: monthName = "Feb";
             break;
-            case 2: monthName = "Mart";
+            case 2: monthName = "Mar";
             break;
-            case 3: monthName = "Nisan";
+            case 3: monthName = "Apr";
             break;
-            case 4: monthName = "Mayıs";
+            case 4: monthName = "May";
             break;
-            case 5: monthName = "Haziran";
+            case 5: monthName = "Jun";
             break;
-            case 6: monthName = "Temmuz";
+            case 6: monthName = "July";
             break;
-            case 7: monthName = "Ağustos";
+            case 7: monthName = "Aug";
             break;
-            case 8: monthName = "Eylül";
+            case 8: monthName = "Sep";
             break;
-            case 9: monthName = "Ekim";
+            case 9: monthName = "Oct";
             break;
-            case 10: monthName = "Kasım";
+            case 10: monthName = "Nov";
             break;
-            case 11: monthName = "Aralık";
+            case 11: monthName = "Dec";
             break;
         }
         const date = `${dateObj.getDate()} ${monthName} ${dateObj.getFullYear()} [${dateObj.getHours()}:${dateObj.getMinutes()}]`

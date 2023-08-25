@@ -26,14 +26,14 @@ const Notes = ({notes}) => {
     <section>
       <header className="notes__header">
         <h2>Holm Notes</h2>
-        { showSearch &&<input type="text" value={text} onChange={(e) => {setText(e.target.value); handleSearch();}} autoFocus placeholder="Not Başlığı..." /> }
+        {!showSearch && <input type="text" value={text} onChange={(e) => {setText(e.target.value); handleSearch();}} autoFocus placeholder="Keyword..." /> }
         <button className='btn' onClick={() => setShowSearch(prevState => !prevState)}>{showSearch ? <MdClose/> : <BsSearch/>}</button>
       </header>
       <div>
 
       </div>
       <div className="notes__container">
-        {filteredNotes.length === 1 ? null :  <p className='empty__notes'>No note matching your search was found</p>}
+        {filteredNotes.length == 0 &&  <p className='empty__notes'>No notes found</p>}
         {
           filteredNotes.map(note => <NoteItem key={note.id} note={note}/>)
         }
