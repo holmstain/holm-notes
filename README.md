@@ -20,7 +20,7 @@ Bu uygulama kullanıcıların notlarını yazmalarına ve saklamalarına olanak 
     
 ## **Geliştirici Notu**
     
-Holm Notes, CSS, Javascript, React, node ve MongoDB dilleri ve kütüphanelerini kullanır. Özellikle kendimi React tarafında geliştirmek istediğim için bu projede React tarafında Hook kullanımını özümsedim. JavaScript tarafında arrayların kullanımını ve çalışma mantıklarını kavradım. MongoDB ile de note uygulamasını alpha sürüme benzetmek ve MongoDB’deki bilgilerimi tekrar hatırlamak için database kurulumunu gerçekleştirdim. 
+Holm Notes, CSS, Javascript, React, Node ve MongoDB dilleri ve kütüphanelerini kullanır. Özellikle kendimi React tarafında geliştirmek istediğim için bu projede React tarafında Hook kullanımını özümsedim. JavaScript tarafında arrayların kullanımını ve çalışma mantıklarını kavradım. MongoDB ile de note uygulamasını alpha sürüme benzetmek ve MongoDB’deki bilgilerimi tekrar hatırlamak için database kurulumunu gerçekleştirdim. 
     
 Kullanıcı uygulamayı dilediği gibi kullanabilir, notlarına isim veya tarihlerine göre filtre ve sıralama yapabilirler.
     
