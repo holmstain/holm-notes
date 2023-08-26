@@ -20,7 +20,7 @@ Bu uygulama kullanıcıların notlarını yazmalarına ve saklamalarına olanak 
     
 ## **Geliştirici Notu**
     
-Holm Notes, CSS, Javascript, React, Node ve MongoDB dilleri ve kütüphanelerini kullanır. Özellikle kendimi React tarafında geliştirmek istediğim için bu projede React tarafında Hook kullanımını özümsedim. JavaScript tarafında arrayların kullanımını ve çalışma mantıklarını kavradım. MongoDB ile de note uygulamasını alpha sürüme benzetmek ve MongoDB’deki bilgilerimi tekrar hatırlamak için database kurulumunu gerçekleştirdim. 
+Holm Notes, Javascript, React, Node ve Firebase dilleri ve teknolojilerini kullanır. Özellikle kendimi React tarafında geliştirmek istediğim için bu projede React tarafında Hook kullanımını özümsedim. JavaScript tarafında arrayların kullanımını ve çalışma mantıklarını kavradım. Firebase ile de note uygulamasını kullanıma hazır sürüme benzetmek ve Firebase’deki bilgilerimi tekrar hatırlamak için database kurulumunu gerçekleştirdim. 
     
 Kullanıcı uygulamayı dilediği gibi kullanabilir, notlarına isim veya tarihlerine göre filtre ve sıralama yapabilirler.
     
@@ -29,7 +29,6 @@ Kullanıcı uygulamayı dilediği gibi kullanabilir, notlarına isim veya tarihl
 ### **Yazılımsal**
     
 - Google Calender / Apple Calender senkronizasyonu
-- Mevcut ve belirli konum ekleme
     
 ### **Kozmetik**
     
@@ -57,7 +56,7 @@ This application allows users to write and store notes. Users can organize their
 
 ## **Developer's Note**
 
-Holm Notes uses the languages and libraries of CSS, Javascript, React, node and MongoDB. I particularly wanted to develop myself on the React side, so in this project I adopted the use of Hook on the React side. On the JavaScript side, I understood the use and working logic of arrays. I also performed the database setup with MongoDB to recall the information in MongoDB and simulate the alpha version of the note application.
+Holm Notes uses the languages and libraries of Javascript, React, node and Firebase. I particularly wanted to develop myself on the React side, so in this project I adopted the use of Hook on the React side. On the JavaScript side, I understood the use and working logic of arrays. I also performed the database setup with Firebase to recall the information in Firebase and simulate the alpha version of the note application.
 
 Users can use the application as they wish, they can filter and sort their notes by name or dates.
 
@@ -66,7 +65,6 @@ Users can use the application as they wish, they can filter and sort their notes
 ### **Technical**
 
 - Google Calender / Apple Calender synchronization
-- Adding current and specific location
 
 ### **Cosmetic**
 
