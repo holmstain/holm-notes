@@ -1,4 +1,4 @@
-- ### Turkish
+- ### Türkçe
     
 # **Holm Notes**
     
@@ -7,10 +7,11 @@ Bu uygulama kullanıcıların notlarını yazmalarına ve saklamalarına olanak 
 ## **Kullanım**
     
 1. Uygulamayı açın.
-2. Yeni bir not oluşturmak için "Not oluştur" butonuna tıklayın.
-3. Notunuzu düzenlemek için not içeriğine ulaşın.
-4. Düzenlediğiniz notu kaydetmek için gerekli tuşa tıklayın, notu silmek için gerekli tuşa basın.
-5. Notları aramak için "Ara" sekmesine gidin.
+2. Yeni bir not oluşturmak için sağ alt kısımda bulunan "+" butonuna tıklayın.
+3. Notunuzu local olarak kayıt etmek için sağ üst kısımdaki "save" butonuna tıklayın.
+4. Notunuzu düzenlemek için not içeriğine ulaşın.
+5. Düzenlediğiniz notu kaydetmek için gerekli tuşa tıklayın, notu silmek için gerekli tuşa basın.
+6. Notları aramak için "Ara" sekmesine gidin.
     
 ## **Özellikler**
     
@@ -35,7 +36,7 @@ Kullanıcı uygulamayı dilediği gibi kullanabilir, notlarına isim veya tarihl
 - Renkli notlar
 
 
-- ### English
+ ## English
 
 
 # **Holm Notes**
